@@ -1,4 +1,4 @@
-a = input().split()
+a = input().split()  # Добавим комментарий
 print(a)
 b=[]
 a.sort()
